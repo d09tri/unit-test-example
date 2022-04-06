@@ -1,0 +1,9 @@
+C:\Users\hodan\Desktop\UnitTestExample\BankProject\bin\Debug\BankProject.exe.config
+C:\Users\hodan\Desktop\UnitTestExample\BankProject\bin\Debug\BankProject.exe
+C:\Users\hodan\Desktop\UnitTestExample\BankProject\bin\Debug\BankProject.pdb
+C:\Users\hodan\Desktop\UnitTestExample\BankProject\obj\Debug\BankProject.FrmChucNang.resources
+C:\Users\hodan\Desktop\UnitTestExample\BankProject\obj\Debug\BankProject.FrmDangNhap.resources
+C:\Users\hodan\Desktop\UnitTestExample\BankProject\obj\Debug\BankProject.Properties.Resources.resources
+C:\Users\hodan\Desktop\UnitTestExample\BankProject\obj\Debug\BankProject.csproj.GenerateResource.Cache
+C:\Users\hodan\Desktop\UnitTestExample\BankProject\obj\Debug\BankProject.exe
+C:\Users\hodan\Desktop\UnitTestExample\BankProject\obj\Debug\BankProject.pdb

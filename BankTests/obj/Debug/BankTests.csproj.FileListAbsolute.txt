@@ -1,0 +1,7 @@
+C:\Users\hodan\Desktop\UnitTestExample\BankTests\bin\Debug\BankTests.dll
+C:\Users\hodan\Desktop\UnitTestExample\BankTests\bin\Debug\BankTests.pdb
+C:\Users\hodan\Desktop\UnitTestExample\BankTests\bin\Debug\BankProject.exe
+C:\Users\hodan\Desktop\UnitTestExample\BankTests\obj\Debug\BankTests.csprojResolveAssemblyReference.cache
+C:\Users\hodan\Desktop\UnitTestExample\BankTests\obj\Debug\BankTests.dll
+C:\Users\hodan\Desktop\UnitTestExample\BankTests\obj\Debug\BankTests.pdb
+C:\Users\hodan\Desktop\UnitTestExample\BankTests\bin\Debug\BankProject.pdb
